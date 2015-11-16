@@ -1,0 +1,4 @@
+	/****************************************************** [2] BASE.CSS */
+		body { font-family:sans-serif; font-size:90%; line-height:1.2; }
+		a:link , a:visited { color:#707070; text-decoration:none; }
+		a:hover , a:focus , a:action { color:red; text-decoration:underline; }

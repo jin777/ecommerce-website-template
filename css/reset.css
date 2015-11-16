@@ -1,0 +1,7 @@
+	/****************************************************** [1] RESET.CSS */
+		@charset "utf-8";
+		html , body { height:100%; }
+		* { margin:0; padding:0; }
+		li { list-style-type:none; }
+		img { border:0 none; }
+		header, nav, section, article, footer, aside { display:block; }
